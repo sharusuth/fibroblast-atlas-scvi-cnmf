@@ -1,0 +1,15 @@
+# data and outputs are never committed
+data/
+results/
+figures/
+*.h5ad
+*.parquet
+*.rds
+*.RDS
+*.npz
+*.pt
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
